@@ -1,0 +1,15 @@
+{
+  "folium": 1,
+  "id": "hi-flac-music",
+  "name": "无损音乐聚合源",
+  "version": "0.1.1",
+  "author": "Community mod",
+  "description": "将 flac.music.hi.cn 的酷我与网易云搜索、试听和歌词接入 Folia。",
+  "client": "client.mjs",
+  "permissions": [
+    "net.fetch"
+  ],
+  "experimental": [
+    "omni.providers"
+  ]
+}
