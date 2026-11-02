@@ -1,7 +1,3 @@
----
-typora-copy-images-to: images
----
-
 # 无损音乐聚合源 · Folium Mod
 
 将 [flac.music.hi.cn](https://flac.music.hi.cn/) 的公开前端搜索接口接入 Folia，注册两个独立在线音源：
